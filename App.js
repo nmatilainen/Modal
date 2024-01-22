@@ -29,13 +29,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  pressable: {
-    padding: 16,
-    backgroundColor: '#2196F3',
-    borderRadius: 5,
-  },
+  
   pressableText: {
-    color: 'white',
     fontSize: 18,
   },
 });
